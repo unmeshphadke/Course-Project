@@ -1,3 +1,4 @@
+
 This is the readme file for the course project for the Getting and Cleaning Data course.
 This file describes the steps taken in the script to achieve the required task for this project.
 
