@@ -1,4 +1,4 @@
-This is the codebook for the course project for "Getting and Cleaning Data"
+This is the readme file for the course project for "Getting and Cleaning Data".
 
 This codebook explains the various variables in the tidy dataset as givem in  the TidyData.txt (by the way, this is a tab seperated value
 file) file .
